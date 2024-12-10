@@ -155,7 +155,7 @@ Fonctionnalités futures prévues :
 - [ ] Mode hors-ligne contre l'IA
 - [ ] Statistiques de jeu
 - [ ] Animations améliorées
-- [ ] Support du mode sombre
+- [ ] Support mode sombre
 - [ ] Localisation
 
 ## License
